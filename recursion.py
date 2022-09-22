@@ -19,9 +19,9 @@ def look_for_key(box):
             print ("found the key!")
 
 # infinite loop recursion.
-def countdown(i):
-    print (i)
-    countdown(i-1)
+# def countdown(i):
+#     print (i)
+#     countdown(i-1)
 
 
 # recursive function.
